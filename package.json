@@ -1,0 +1,15 @@
+{
+  "name": "secpass",
+  "version": "1.0.0",
+  "description": "Secure CLI password manager",
+  "main": "index.js",
+  "bin": {
+    "secpass": "./index.js"
+  },
+  "type": "module",
+  "author": "Lukas Cakici",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^13.3.0"
+  }
+}
